@@ -1,0 +1,18 @@
+{
+  "prettier.arrowParens": "always",
+  "prettier.bracketSpacing": false,
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "prettier.insertPragma": false,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 80,
+  "prettier.proseWrap": "preserve",
+  "prettier.quoteProps": "as-needed",
+  "prettier.requirePragma": false,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 4,
+  "prettier.trailingComma": "es5",
+  "prettier.useTabs": true,
+  "prettier.vueIndentScriptAndStyle": false
+}
